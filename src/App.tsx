@@ -5,7 +5,7 @@ import PartnerDashboard from "./pages/PartnerDashboard";
 import Register from  "./pages/Register";
 // import Heatmap from "./pages/Heatmap";
 import LinkPartner from "./pages/LinkPartner";
-import "./app.css";
+import "./App.css";
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(
